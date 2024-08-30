@@ -1,3 +1,5 @@
 2차 연습입니다.
 git pull origin main --allow-unrelated-histories를 이용하여
 버전 상태를 무력화 했습니다.
+1차수정
+
